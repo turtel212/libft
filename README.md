@@ -9,8 +9,6 @@ Thanks to this project we are able to:
 3. How to create a linked lists.
 4. The use of a Makefile to compile projects.
 
-##
-
-##Used languages
+## Used languages
 - C
 - Makefile
