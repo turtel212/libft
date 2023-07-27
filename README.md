@@ -1,4 +1,4 @@
-# libft
+# Libft
 ## About the project
 This is a *42 school* project, the goal of this project is to develop our own **C** library programming some existing functions. This project come with a **bonus** part that includes some fuctions and structs about **linked lists**.
 
